@@ -5,10 +5,10 @@
             'name' => 'Intan',
             'Age' => 22,
             'address' => 'Sukabumi',
-            'hobbies' => array('makan','minum'),
+            'hobbies' => array('musik','fashion'),
             'is_married' => false,
             'list_school' => array([
-                'name' => 'SMA Sukabumi',
+                'name' => 'SMAN 5 Sukabumi',
                 'year_in' => '2012',
                 'year_out' => '2015',
                 'major' => NULL
@@ -24,8 +24,8 @@
                 'level'=> 'Beginner'
             ],
             [
-                'skill_name' => 'Javascripts',
-                'level'=> 'Advanced'
+                'skill_name' => 'Adobe Photoshop',
+                'level'=> 'Beginner'
                             ]),
             'interest_in_coding' => true
         ]);
